@@ -4,8 +4,8 @@ Airbnb, Inc. is an American San Francisco-based company operating an online mark
 
 ## Table of Contents
 
-- [Data Set Details](#Data Set Details)
-- [Project Goal](#Project Goal)
+- [Data Set Details](#data Set Details)
+- [Project Goal](#project Goal)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Data Cleaning & Preparation](#Data Cleaning & Preparation)
   - [Descriptive Statistics](#Descriptive Statistics)
@@ -19,7 +19,7 @@ Airbnb, Inc. is an American San Francisco-based company operating an online mark
 - [Project Impact](#Project Impact) 
   
 
-## Data Set Details
+##Data Set Details
 
 ```Excel
 -- Variables Names and Descriptions are:
@@ -31,7 +31,7 @@ Airbnb, Inc. is an American San Francisco-based company operating an online mark
 	Share Room: If the Room in Airbnb is shared by anyone
 	Private Room: If the Stay has a Private room available
 	Person Capacity: The Person Capacity of Airbnb
-	Superhost: If the Airbnb host is Superhost or not
+	Superhost: If the Airbnb host is a Superhost or not
 	Multiple Rooms: If the Airbnb has multiple rooms (2-4) rooms
 	Business: If the Business has more than 4 offers
 	Cleaningness Rating: Cleanness Ratings of the Places
@@ -40,14 +40,14 @@ Airbnb, Inc. is an American San Francisco-based company operating an online mark
 	City Center (km): Distance to the center of the City from the staying place
 	Metro Distance (km): Distance to the Metro Service from the staying place
 	Attraction Index: Attraction Index of the Place
-	Normalised Attraction Index: Normalised value of the Attraction Index
-	Restraurant Index: Restaurant Index of the Place
-	Normalised Restraurant Index: Normalised value of the Restaurant Index
+	Normalized Attraction Index: Normalised value of the Attraction Index
+	Restaurant Index: Restaurant Index of the Place
+	Normalized Restaurant Index: Normalised value of the Restaurant Index
 
 
 
 ## Project Goal
-```Performing Exploratory Data Analysis using Microsoft Excel and Telling a Story using a Dashboard with this dataset i.e. Building a Simple Dashboard using Excel. Also, Performing Statistical Analysis to find the determinants and association between variables.
+``` Performing Exploratory Data Analysis using Microsoft Excel and Telling a Story using a Dashboard with this dataset i.e. Building a Simple Dashboard using Excel. Also, Performing Statistical Analysis to find the determinants and associations between variables.
 ```
 
 
