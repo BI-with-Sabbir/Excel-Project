@@ -88,7 +88,7 @@ In this project, we conducted **Exploratory Data Analysis (EDA)** using Microsof
 
 ## Overview
 
-**Project Visual Overview:** *(Insert project visuals here)*
+**Project Visual Overview:** 
 
 ![image](https://github.com/user-attachments/assets/c8684b7b-6cb7-456f-866c-6e454f933964)
 
