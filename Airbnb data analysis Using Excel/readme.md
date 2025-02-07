@@ -59,9 +59,13 @@ In this project, we conducted **Exploratory Data Analysis (EDA)** using Microsof
 - Standardized variable formats and ensured data accuracy.
 - Removed duplicate or irrelevant records.
 
+![image](https://github.com/user-attachments/assets/e6f128fe-2c75-4116-a23d-1438c578f1b7)
+
+
 #### Descriptive Statistics:
 - Calculated **mean, median, and standard deviation** for numerical variables (e.g., price, satisfaction score).
 - Summarized categorical variables such as **room type distribution**.
+
 
 #### Visualization & Insights:
 - Used **PivotTables and Charts** to analyze **pricing trends** based on room type and city.
@@ -74,6 +78,9 @@ In this project, we conducted **Exploratory Data Analysis (EDA)** using Microsof
 - Analyzed the effect of **Superhost status** on guest ratings.
 - Examined whether **weekend vs. weekday stays impact pricing**.
 
+![image](https://github.com/user-attachments/assets/74ae533e-a130-41ab-86a1-3e6b6ce1b455)
+
+
 #### Dashboard Creation:
 - Designed an **interactive Excel dashboard** summarizing key insights.
 - Included visual **KPIs such as average pricing, best-rated cities, and room-type distribution**.
@@ -83,15 +90,20 @@ In this project, we conducted **Exploratory Data Analysis (EDA)** using Microsof
 
 **Project Visual Overview:** *(Insert project visuals here)*
 
+![image](https://github.com/user-attachments/assets/c8684b7b-6cb7-456f-866c-6e454f933964)
+
+
 ## Listing Type Analysis
 
 **Analysis of different Airbnb listing types and their performance across cities.**
 
-```sql
--- Creating a view for RFM segmentation based on Recency (R), Frequency (F), and Monetary (M) scores
-```
+![image](https://github.com/user-attachments/assets/c14782cf-f95b-4377-9220-25d06e10594d)
+
 
 ## Recommendations
+
+![image](https://github.com/user-attachments/assets/4756d2ca-9c12-4947-b258-ed5d07865b62)
+
 
 Based on our analysis, we suggest the following recommendations for Airbnb hosts and investors:
 - **Optimize Pricing:** Adjust pricing based on location, guest satisfaction, and room type trends.
